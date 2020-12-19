@@ -12,3 +12,7 @@ The three webpage customizations include:
 - Adding an image to the jumbotron.
 - Adding background color.
 - Using a custom font with contrast for the colors. 
+
+See below for a snapshot of the interactive webpage:
+
+[webpage]!(Capture.PNG)
