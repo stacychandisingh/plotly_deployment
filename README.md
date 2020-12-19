@@ -13,6 +13,8 @@ The three webpage customizations include:
 - Adding background color.
 - Using a custom font with contrast for the colors. 
 
+The following link will take you to the interactive webpage: https://stacychandisingh.github.io/plotly_deployment/
+
 See below for a snapshot of the interactive webpage:
 
 ![webpage](Capture.PNG)
