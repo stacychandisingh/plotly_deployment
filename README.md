@@ -15,4 +15,4 @@ The three webpage customizations include:
 
 See below for a snapshot of the interactive webpage:
 
-[webpage]!(Capture.PNG)
+![webpage](Capture.PNG)
