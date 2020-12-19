@@ -1,0 +1,10 @@
+body {
+
+    color: #d11912;
+  }
+
+  .jumbotron {
+    background-image: url("images/microscope.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
